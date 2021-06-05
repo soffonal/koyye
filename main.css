@@ -48,6 +48,7 @@
 	flex-direction: row;
 	height: 100%;
 	width:100%;
+	background:blue;
 }
 .icon{
 	width:70%;
